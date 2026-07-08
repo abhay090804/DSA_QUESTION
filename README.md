@@ -17,4 +17,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/abhay090804/DSA_QUESTION/tree/master/0704-binary-search) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhay090804/DSA_QUESTION/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhay090804/DSA_QUESTION/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhay090804/DSA_QUESTION/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhay090804/DSA_QUESTION/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
