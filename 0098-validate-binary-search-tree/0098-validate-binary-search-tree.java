@@ -14,24 +14,15 @@
  * }
  */
 class Solution {
-
     TreeNode prev = null;
-
     public boolean isValidBST(TreeNode root) {
         if (root == null)
             return true;
-
-        // Left subtree
         if (!isValidBST(root.left))
             return false;
-
-        // Current node
         if (prev != null && root.val <= prev.val)
             return false;
-
         prev = root;
-
-        // Right subtree
         return isValidBST(root.right);
     }
 }
