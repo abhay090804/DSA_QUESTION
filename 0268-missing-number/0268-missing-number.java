@@ -1,16 +1,16 @@
 class Solution {
-    public int missingNumber(int[] n) {
+    public int missingNumber(int[] nums) {
 
-        int m = n.length;
+        int n = nums.length;
 
-        int a= m * (m + 1) / 2;
+        int b= n * (n + 1) / 2;
 
-        int b = 0;
+        int c = 0;
 
-        for (int num : n) {
-            b = b+ num;
+        for (int num : nums) {
+            c+= num;
         }
 
-        return a - b;
+        return b - c;
     }
 }
